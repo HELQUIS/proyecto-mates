@@ -8,6 +8,6 @@ esto es unos cambios para trabajar con rebase y a sido exitoso
 print("Esto es una archivo de prueba")
 print("Esto tambiebn es una lineas de prueba")
 
-### Modificacion mediante Github
+### Modificacion mediante Github osea en la web
 
-Esto es una modificacion hecha desde la web
+Esto es una modificacion hecha desde la web de internet
